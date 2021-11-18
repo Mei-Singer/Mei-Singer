@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mei-Singer
 - 👀 I’m interested in solving problems, reading, and learning!
-- 🌱 I’m currently learning about as much as I can.
+- 🌱 I’m currently learning about as much as I can. I like to work on both CAD and hands on prototyping.
 - 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me: meisinger516@bu.edu
 
